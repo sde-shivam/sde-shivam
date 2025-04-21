@@ -5,49 +5,47 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Adarsh Vishwakarma</h1>
-<p align="center">Aspiring MERN-Stack Developer | Lifelong Learner | Passionate Coder</p>
+<h1 align="center">Hi 👋, I'm Shivam Singh</h1>
+<p align="Software Developer | JavaScript | React.js | Node.js | Passionate About Building Scalable & Impactful Web Applications"</p>
 
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on *Youtube Clone*
+- 🔭 I’m currently working on *Career Networking Platform*
   
-- 🌱 I’m currently learning *React, Node.js, Express.js, MongoDB*
+- 🌱 Learning *React, Node.js, Express.js, MongoDB, python*
+
+- 📫 How to reach me: *shivamasingh.tcsc@gmail.com*
   
-- 💬 Ask me anything about *React*
-  
-- 📫 How to reach me: *adarshvishwakarma@gmail.com*
-  
-- 😄 My website: [*Adarsh*](https://crypto-places.netlify.app/)
+- 😄 My Project: [*Shivam*](https://wonderlust-project-1-lb45.onrender.com/listings)
   
 - 🛠️ Toolbox: Proficient in *Git, VSCode, Postman*, and always learning new tools to streamline my workflow.
   
 - 🧠 Mindset: Strong believer in the "learn by doing" philosophy, constantly building personal projects to improve my skills.
   
-- 💥 Next Goals: Mastering *full-stack development*, building scalable systems, and contributing to open-source projects.
+- 💥 Next Goals: Mastering *Software Development*, building scalable systems, and contributing to open-source projects.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshvishwakarmaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshvishwakarmaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sde-shivam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sde-shivam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ---
 
 ### 🌐 Connect With Me:
 <div id="badges" align="center">
-  <a href="https://github.com/adarshvishwakarmaa">
+  <a href="https://github.com/sde-shivam">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" height="35" alt="Github Badge"/>
   </a>
-  <a href="https://www.instagram.com/adarshvishwakarma923">
+  <a href="https://www.instagram.com/_shhvm__">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/adarsh-vishwakarma-a055a1317/">
+  <a href="https://www.linkedin.com/in/sde-shivam/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:adarshvishwakarma2004@gmail.com">
+  <a href="mailto:shivamasingh.tcsc@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Badge"/>
   </a>
 </div>
@@ -76,7 +74,7 @@
 ---
 
 <div align="center">
-  <h3>⭐️ From <a href="https://github.com/adarshvishwakarmaa">Adarsh Vishwakarma</a></h3>
+  <h3>⭐️ From <a href="https://github.com/sde-shivam">Shivam Singh</a></h3>
 </div>
 
 
