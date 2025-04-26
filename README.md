@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: *shivamasingh.tcsc@gmail.com*
   
-- 😄 My Project: [*Shivam*](https://wonderlust-project-1-lb45.onrender.com/listings)
+- 😄 My Project: [*WonderLust-Hotel Booking Website*](https://wonderlust-project-1-lb45.onrender.com/listings)
   
 - 🛠️ Toolbox: Proficient in *Git, VSCode, Postman*, and always learning new tools to streamline my workflow.
   
