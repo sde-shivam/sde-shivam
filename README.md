@@ -62,7 +62,13 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
   <img width="15" />
+  <img src="https://worldvectorlogo.com/logo/java" height="40" alt="Core Java"  />
+  <img width="15" />
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="40" alt="Sql logo"  />
+  <img width="15" />
+  <img src="https://github.com/topics/java-spring-boot" height="40" alt="Spring"  />
+  <img width="15" />
+  <img src="https://www.magic-vacation.com/?i=68616543031220" height="40" alt="Spring Boot"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
   <img width="15" />
