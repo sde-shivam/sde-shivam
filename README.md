@@ -17,9 +17,9 @@
 
 - 📫 How to reach me: *shivamasingh.tcsc@gmail.com*
   
-- 😄 My Project: [*WonderLust-Hotel Booking Website*](https://wonderlust-project-1-lb45.onrender.com/listings)
+- 😄 My Project: [*Bank Management System*](https://github.com/sde-shivam/Bank-Management-System)
   
-- 🛠️ Toolbox: Proficient in *Git, VSCode, Postman*, and always learning new tools to streamline my workflow.
+- 🛠️ Toolbox: Proficient in *Git, VSCode, Netbeans*, and always learning new tools to streamline my workflow.
   
 - 🧠 Mindset: Strong believer in the "learn by doing" philosophy, constantly building personal projects to improve my skills.
   
@@ -62,13 +62,15 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
   <img width="15" />
-  <img src="https://worldvectorlogo.com/logo/java" height="40" alt="Core Java"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" alt="Core Java"  />
   <img width="15" />
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="40" alt="Sql logo"  />
   <img width="15" />
-  <img src="https://github.com/topics/java-spring-boot" height="40" alt="Spring"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjRopNDpvKoVwZyf5waz-FSOesaMz9vMxTpg&s" height="40" alt="Hibernate"  />
   <img width="15" />
-  <img src="https://www.magic-vacation.com/?i=68616543031220" height="40" alt="Spring Boot"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaBMaZUpjGCQ9kX6O4b2-eFBLO1yYDIqi2sg&s" height="40" alt="Spring"  />
+  <img width="15" />
+  <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png"       height="40" alt="Spring Boot" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
   <img width="15" />
