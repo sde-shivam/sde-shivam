@@ -6,14 +6,14 @@
 
 
 <h1 align="center"><b><i>Hi 👋, I'm Shivam Singh</i></b></h1>
-<p align="Software Developer | JavaScript | React.js | Node.js | Passionate About Building Scalable & Impactful Web Applications"</p>
+<p align="Software Developer | Spring Boot | SQL | Object-Oriented Design | Building REST APIs |"</p>
 
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on *Career Networking Platform*
+- 🔭 I’m currently working on *Springboot project*
   
-- 🌱 Learning *React, Node.js, Express.js, MongoDB, Sql, python*
+- 🌱 Learning * Html, Css, Javascript, Core java, Jdbc, Spring, Springboot, Mysql *
 
 - 📫 How to reach me: *shivamasingh.tcsc@gmail.com*
   
@@ -54,8 +54,6 @@
 
 ### 🛠️ Languages and Tools:
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" height="40" alt="Python logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
@@ -64,13 +62,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo"  />
-  <img width="15" />
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="40" alt="Sql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
   <img width="15" />
