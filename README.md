@@ -43,8 +43,6 @@
   <img width="15" />
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="40" alt="Sql logo"  />
   <img width="15" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTKbK7hyB6hzZdO3aWyCAsfE4S10NhCwy6A&s" height="40" alt="Hibernate"  />
-  <img width="15" />
   <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-logo.png" height="40" alt="Spring"  />
   <img width="15" />
   <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png"       height="40" alt="Spring Boot" />
