@@ -1,35 +1,41 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" alt="MasterHead" style="width: 100%; height: 20rem;">
+<h1>Hi, I'm Shivam Singh 👋</h1>
+
+<h3> Backend Developer · Java & Spring Boot · REST API </h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+robust+backend+systems;Java+%7C+Spring+Boot+%7C+SQL;Learning+by+building+real+projects;Open+to+backend+opportunities" alt="Typing SVG" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/sde-shivam/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:shivamasingh.tcsc@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.instagram.com/_shhvm__">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://github.com/sde-shivam">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </div>
 
+<br>
 
+## 🧭 About Me
 
+- 🔭 Currently building a **Spring Boot–based backend project** with a focus on clean architecture and REST API design
+- 🌱 Deepening my skills in **Java, JDBC, Spring, Spring Boot, MySQL, and modern web fundamentals**
+- 💼 Built a **[Bank Management System](https://github.com/sde-shivam/Bank-Management-System)** — a Java-based project implementing core banking operations and backend logic
+- 🛠️ Comfortable working with **Git, VS Code, and NetBeans** in day-to-day development
+- 🧠 I follow a **learn-by-building** approach — every concept I study turns into a project
+- 🎯 **Goal:** grow into a strong backend engineer, ship scalable applications, and contribute to open-source
+- 📫 Reach me at **shivamasingh.tcsc@gmail.com**
 
-<h1 align="center"><b><i>Hi 👋, I'm Shivam Singh</i></b></h1>
-<p align="Software Developer | Spring Boot | SQL | Object-Oriented Design | Building REST APIs |"</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently developing a **Spring Boot–based backend project**.
-
-- 🌱 Continuously strengthening my skills in  
-  **Java, JDBC, Spring, Spring Boot, MySQL, HTML, CSS, and JavaScript**.
-
-- 💻 Built a **Bank Management System** to implement core banking operations and backend logic.  
-  🔗 https://github.com/sde-shivam/Bank-Management-System
-
-- 🛠️ Development tools I work with: **Git, VS Code, and NetBeans**.
-
-- 🧠 I follow a **learn-by-building approach**, creating projects to improve my understanding of software development.
-
-- 🎯 Current goal: **Become a strong backend developer**, build scalable applications, and contribute to open-source projects.
-
-- 📫 Contact: **shivamasingh.tcsc@gmail.com**
-
-
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
   <img width="15" />
@@ -51,31 +57,27 @@
   <img width="15" />
 </div>
 
----
 
-### 🌐 Connect With Me:
-<div id="badges" align="center">
-  <a href="https://github.com/sde-shivam">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" height="35" alt="Github Badge"/>
-  </a>
-  <a href="https://www.instagram.com/_shhvm__">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sde-shivam/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:shivamasingh.tcsc@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Badge"/>
-  </a>
-</div>
-
-###
----
-###
+## 🤝 Let's Connect
 
 <div align="center">
-  <img height="250" src="https://png.pngtree.com/png-clipart/20240614/original/pngtree-a-boy-working-on-laptop-png-image_15328571.png"  />
-</div>
-<div align="center">
-  <h3>⭐️ From <a href="https://github.com/sde-shivam">Shivam Singh</a></h3>
+
+I'm always open to discussing backend development, Spring Boot projects, or potential opportunities.
+Feel free to reach out — I'd love to connect!
+
+<a href="https://www.linkedin.com/in/sde-shivam/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:shivamasingh.tcsc@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br><br>
+
+<img src="https://png.pngtree.com/png-clipart/20240614/original/pngtree-a-boy-working-on-laptop-png-image_15328571.png" height="220" alt="Developer illustration"/>
+
+<br>
+
+### ⭐️ From [Shivam Singh](https://github.com/sde-shivam)
+
 </div>
