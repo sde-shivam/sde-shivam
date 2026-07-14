@@ -28,23 +28,6 @@
 
 - 📫 Contact: **shivamasingh.tcsc@gmail.com**
 
----
-
-### 💻 Projects
-
-#### 🏦 Bank Management System
-A backend application that simulates core banking operations.
-
-**Key Features**
-- Account creation and management
-- Deposit and withdrawal functionality
-- Transaction handling
-- MySQL database integration
-
-🔗 Repository:  
-https://github.com/sde-shivam/Bank-Management-System
-
----
 
 ### 🛠️ Languages and Tools:
 <div align="center">
